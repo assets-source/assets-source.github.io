@@ -1,7 +1,7 @@
 .__dumi-default-layout-hero {
   background-image: url('https://assets-source.github.io/assets/images/02.jpg') !important;
   background-size: 100%;
-  padding: 200px 0 500px;
+  padding: 200px 0 500px !important;
   color: #202020;
 }
 .__dumi-default-layout-hero > div >div.markdown > p {
